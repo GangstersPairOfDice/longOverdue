@@ -11,6 +11,8 @@ With longOverdue, you can keep track of how long its been since you wrote down t
 - [ ] **😎 Clean UI**
   - [ ] Modern and intuitive design
   - [ ] Easy to navigate and use
+  - [ ] **📱 Mobile**
+    - [ ] Test / Update all components to be mobile friendly
 - [ ] **👤 User Functionality**
   - [ ] Archive completed tasks
   - [ ] **➕ Add Todo**
@@ -20,3 +22,4 @@ With longOverdue, you can keep track of how long its been since you wrote down t
 - [ ] **💻 Hosting**
   - [ ] Local Host
   - [ ] Online Host
+    - [ ] Vercel
