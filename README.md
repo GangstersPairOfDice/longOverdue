@@ -2,8 +2,6 @@
 
 ## Roadmap 🚀
 
----
-
 - [ ] **😎 Clean UI**
   - [ ] Modern and intuitive design
   - [ ] Easy to navigate and use
