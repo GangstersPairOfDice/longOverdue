@@ -14,12 +14,17 @@ With longOverdue, you can keep track of how long its been since you wrote down t
   - [ ] **📱 Mobile**
     - [ ] Test / Update all components to be mobile friendly
 - [ ] **👤 User Functionality**
+  - [ ] Notifications ?
+  - [ ] Display Customization ? ( display preferences )
+  - [ ] Search Function ?
+  - [ ] Encryption ?
+  - [ ] Collaboration ?
   - [ ] Archive completed tasks
   - [ ] **➕ Add Todo**
   - [ ] **➖ Remove Todo**
   - [ ] **⏳ Time Tracking**
     - [ ] See how long it's been since a task was added
 - [ ] **💻 Hosting**
-  - [ ] Local Host
+  - [ ] Local/Offline Host
   - [ ] Online Host
     - [ ] Vercel
