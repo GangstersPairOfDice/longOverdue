@@ -1,5 +1,11 @@
 # longOverdue
 
+Remember when you said you were going to do that one thing that one time? You even wrote it down, right?
+
+How long has it been though?
+
+With longOverdue, you can keep track of how long its been since you wrote down that one amazing idea.
+
 ## Roadmap 🚀
 
 - [ ] **😎 Clean UI**
