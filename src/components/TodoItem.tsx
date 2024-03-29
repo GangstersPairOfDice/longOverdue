@@ -37,7 +37,7 @@ export default function TodoItem({ todo, deleteTodo }: TodoItemProps) {
         <span className="ml-2 text-gray-500">{timeSinceAdded} ago</span>
       </div>
       <button
-        className="bg-red-500 hover:bg-red-600 text-white font-bold py-1 px-2 rounded"
+        className="ml-10 bg-red-500 hover:bg-red-600 text-white font-bold py-1 px-2 rounded"
         onClick={deleteTodo}
       >
         Remove
