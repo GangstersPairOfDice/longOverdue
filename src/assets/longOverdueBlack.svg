@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg6"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <clipPath
+       id="clip-1">
+      <path
+         d="M 0,500 V 0 h 500 v 500 z"
+         fill="#ffffff"
+         fill-rule="nonzero"
+         id="path1" />
+    </clipPath>
+    <clipPath
+       id="clip-2">
+      <path
+         d="M 94,551.6927 V -52 h 546.261 v 603.6927 z"
+         fill="none"
+         fill-rule="nonzero"
+         id="path2" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#clip-1)"
+     id="Frame 1"
+     fill="none"
+     fill-rule="none"
+     stroke="none"
+     stroke-width="1"
+     stroke-linecap="butt"
+     stroke-linejoin="miter"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     stroke-dashoffset="0"
+     font-family="none"
+     font-weight="none"
+     font-size="none"
+     text-anchor="none"
+     style="mix-blend-mode:normal">
+    <g
+       clip-path="url(#clip-2)"
+       id="g4">
+      <path
+         d="M 503.6958,-1.6919 V 134.466 L 399.3144,249.8468 503.6958,365.1773 V 501.3855 H 230.5653 V 365.1773 L 334.9239,249.8468 230.5653,134.466 V -1.6919 Z M 367.1305,285.4143 276.087,386.0297 v 52.471 l 91.0435,-62.8847 91.0435,62.8847 v -52.471 z M 458.174,48.6158 H 276.087 v 65.0227 l 32.2597,35.6603 117.8443,-0.3058 31.983,-35.3544 z"
+         fill="#000000"
+         fill-rule="evenodd"
+         id="path4" />
+    </g>
+    <g
+       fill-rule="nonzero"
+       id="g6">
+      <g
+         id="g5">
+        <path
+           d="M -280.2172,-93.8334 H 358.5679 V 585.926 h -638.7851 z"
+           id="svg_1 1"
+           fill="none" />
+        <g
+           id="Shopicon 1"
+           fill="#000000">
+          <path
+             d="M 52.4833,47.7831 H 292.0277 V -8.8635 H -0.7488 V 500.956 H 345.2598 V 444.3094 H 52.4833 Z"
+             id="svg_2 1" />
+          <path
+             d="m 180.5392,108.487 -50.1846,53.4036 -25.0989,-26.6947 -37.6218,40.0633 62.7207,66.7297 87.8196,-93.4386 z"
+             id="svg_5 1"
+             style="fill:#00ffaa;fill-opacity:1" />
+          <path
+             d="m 105.2557,276.8125 -37.6218,40.0633 62.7207,66.7297 87.8196,-93.4386 -37.6351,-40.0633 -50.1846,53.4036 z"
+             id="svg_6 1"
+             style="fill:#00ffaa;fill-opacity:1" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
