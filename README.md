@@ -28,7 +28,7 @@ To deploy this application on your own machine, follow these steps:
 
 3. Install dependancies:
 
-`yarn install`
+`yarn`
 
 4. Start the development server:
 
