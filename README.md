@@ -46,7 +46,7 @@ To deploy this application on your own machine, follow these steps:
 
     - [x] See how long it's been since a task was added
 
-  - [x] Save your Todos ( LocalStorage )
+  - [x] 💾 Save your Todos ( LocalStorage )
   - [ ] Notifications ?
   - [ ] Display Customization ? ( display preferences )
   - [ ] Search Function ?
