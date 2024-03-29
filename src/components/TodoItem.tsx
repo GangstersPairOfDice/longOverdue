@@ -21,8 +21,9 @@ export default function TodoItem({ todo, deleteTodo }: TodoItemProps) {
       const hoursSinceAdded = Math.floor(
         (timeDifference / (1000 * 60 * 60)) % 24
       );
+      const daysSinceAdded = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
 
-      const newTimeSinceAdded = `${hoursSinceAdded}h ${minutesSinceAdded}m ${secondsSinceAdded}s`;
+      const newTimeSinceAdded = `${daysSinceAdded}d ${hoursSinceAdded}h ${minutesSinceAdded}m ${secondsSinceAdded}s`;
       setTimeSinceAdded(newTimeSinceAdded);
     }, 1000);
 
