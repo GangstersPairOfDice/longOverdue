@@ -9,8 +9,8 @@ With longOverdue, you can keep track of how long its been since you wrote down t
 ## Roadmap 🚀
 
 - [ ] **😎 Clean UI**
-  - [ ] Modern and intuitive design
-  - [ ] Easy to navigate and use
+  - [x] Modern and intuitive design
+  - [x] Easy to navigate and use
   - [ ] **📱 Mobile**
     - [ ] Test / Update all components to be mobile friendly
 - [ ] **👤 User Functionality**
@@ -20,10 +20,10 @@ With longOverdue, you can keep track of how long its been since you wrote down t
   - [ ] Encryption ?
   - [ ] Collaboration ?
   - [ ] Archive completed tasks
-  - [ ] **➕ Add Todo**
-  - [ ] **➖ Remove Todo**
-  - [ ] **⏳ Time Tracking**
-    - [ ] See how long it's been since a task was added
+  - [x] **➕ Add Todo**
+  - [x] **➖ Remove Todo**
+  - [x] **⏳ Time Tracking**
+    - [x] See how long it's been since a task was added
 - [ ] **💻 Hosting**
   - [ ] Local/Offline Host
   - [ ] Online Host
