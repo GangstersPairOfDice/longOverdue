@@ -6,11 +6,11 @@ How long has it been though?
 
 With longOverdue, you can keep track of how long its been since you wrote down that one amazing idea.
 
-## Features
+## Features 🚀
 
-- Add and delete todos
-- Track the time since each todo was added
-- Todos are automatically saved to local browser storage
+- Add and delete todos 📝🗑️
+- Track the time since each todo was added ⏱️
+- Todos are automatically saved to local browser storage 💾
 
 ## Deployment
 
