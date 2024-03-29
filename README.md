@@ -6,7 +6,7 @@ How long has it been though?
 
 With longOverdue, you can keep track of how long its been since you wrote down that one amazing idea.
 
-## Features 🚀
+## Features 💡
 
 - Add and delete todos 📝🗑️
 - Track the time since each todo was added ⏱️
@@ -36,7 +36,7 @@ To deploy this application on your own machine, follow these steps:
 
 5. Open your browser and navigate to http://localhost:5173 to view the application.
 
-## Roadmap 🚀
+## Roadmap 📍
 
 - **👤 User Functionality**
 
