@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import TodoItem from "./TodoItem";
 import AddTodo from "./AddTodo";
 
@@ -7,6 +7,10 @@ interface Todo {
   text: string;
   timestamp: number;
 }
+
+const saveTodosToLocalStorage = (todos: Todo[]) => {
+  localStorage.setItem("todos", JSON.stringify(todos));
+};
 
 export default function TodoList() {
   const [todos, setTodos] = useState<Todo[]>([]);
@@ -17,12 +21,27 @@ export default function TodoList() {
       text: newTodoText,
       timestamp: Date.now(),
     };
-    setTodos([...todos, newTodo]);
+    setTodos((prevTodos) => {
+      const newTodos = [...prevTodos, newTodo];
+      saveTodosToLocalStorage(newTodos);
+      return newTodos;
+    });
   };
 
   const deleteTodo = (todoId: number) => {
-    setTodos(todos.filter((todo) => todo.id !== todoId));
+    setTodos((prevTodos) => {
+      const newTodos = prevTodos.filter((todo) => todo.id !== todoId);
+      saveTodosToLocalStorage(newTodos);
+      return newTodos;
+    });
   };
+
+  useEffect(() => {
+    const savedTodos = localStorage.getItem("todos");
+    if (savedTodos) {
+      setTodos(JSON.parse(savedTodos));
+    }
+  }, []);
 
   return (
     <div className="w-full h-full p-4">

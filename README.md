@@ -8,23 +8,30 @@ With longOverdue, you can keep track of how long its been since you wrote down t
 
 ## Roadmap 🚀
 
-- [ ] **😎 Clean UI**
-  - [x] Modern and intuitive design
-  - [x] Easy to navigate and use
-  - [ ] **📱 Mobile**
-    - [ ] Test / Update all components to be mobile friendly
-- [ ] **👤 User Functionality**
+- **👤 User Functionality**
+
+  - [x] ➕ Add Todo
+  - [x] ➖ Remove Todo
+  - [x] ⏳ Time Tracking
+
+    - [x] See how long it's been since a task was added
+
+  - [x] Save your Todos ( LocalStorage )
   - [ ] Notifications ?
   - [ ] Display Customization ? ( display preferences )
   - [ ] Search Function ?
   - [ ] Encryption ?
   - [ ] Collaboration ?
   - [ ] Archive completed tasks
-  - [x] **➕ Add Todo**
-  - [x] **➖ Remove Todo**
-  - [x] **⏳ Time Tracking**
-    - [x] See how long it's been since a task was added
-- [ ] **💻 Hosting**
-  - [ ] Local/Offline Host
+
+- **😎 Clean UI**
+
+  - [x] Modern and intuitive design
+  - [x] Easy to navigate and use
+  - **📱 Mobile**
+    - [ ] Test / Update all components to be mobile friendly
+
+- **💻 Hosting**
+  - [x] Local/Offline Host
   - [ ] Online Host
     - [ ] Vercel
