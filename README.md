@@ -6,15 +6,17 @@ How long has it been though?
 
 With longOverdue, you can keep track of how long its been since you wrote down that one amazing idea.
 
+Excited to announce we are now live and online!
+
+https://longoverdue.vercel.app/
+
 ## Features 💡
 
 - Add and delete todos 📝🗑️
 - Track the time since each todo was added ⏱️
 - Todos are automatically saved to local browser storage 💾
 
-## Deployment 🚀
-
-Please note this is currently locally hosted only. Online hosting hopefully will be added soon.
+## Deploying locally 🚀
 
 To deploy this application on your own machine, follow these steps:
 
@@ -63,8 +65,8 @@ To deploy this application on your own machine, follow these steps:
 
 - **💻 Hosting**
   - [x] Local/Offline Host
-  - [ ] Online Host
-    - [ ] Vercel
+  - [x] Online Host
+    - [x] Vercel
 
 ## Technologies
 
