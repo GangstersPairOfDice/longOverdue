@@ -12,7 +12,7 @@ With longOverdue, you can keep track of how long its been since you wrote down t
 - Track the time since each todo was added ⏱️
 - Todos are automatically saved to local browser storage 💾
 
-## Deployment
+## Deployment 🚀
 
 Please note this is currently locally hosted only. Online hosting hopefully will be added soon.
 
