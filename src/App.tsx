@@ -5,7 +5,7 @@ import TodoList from "./components/TodoList";
 function App() {
   return (
     <>
-      <h1 className="underline flex items-center">
+      <h1 className="underline flex items-center justify-center">
         <a
           href="https://github.com/GangstersPairOfDice/longOverdue"
           target="_blank"
