@@ -31,7 +31,7 @@ export default function TodoItem({ todo, deleteTodo }: TodoItemProps) {
   }, [todo.timestamp]);
 
   return (
-    <li className="flex justify-between items-center">
+    <li className="flex justify-between items-center border border-transparent hover:border-gray-400 rounded">
       <div className="flex items-center">
         <span>{todo.text}</span>
         <span className="ml-2 text-gray-500">{timeSinceAdded} ago</span>

@@ -61,7 +61,7 @@ To deploy this application on your own machine, follow these steps:
 - **😎 Clean UI**
 
   - [x] Modern and intuitive design
-    - [ ] Highlight selected task for easy demarcation
+    - [x] Highlight selected task for easy demarcation
   - [x] Easy to navigate and use
   - **📱 Mobile**
     - [x] Test / Update all components to be mobile friendly
