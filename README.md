@@ -49,19 +49,22 @@ To deploy this application on your own machine, follow these steps:
     - [x] See how long it's been since a task was added
 
   - [x] 💾 Save your Todos ( LocalStorage )
+  - [ ] Archive completed tasks
+  - [ ] See what the average time it takes to complete a task
+  - [ ] Undo remove button
   - [ ] Notifications ?
   - [ ] Display Customization ? ( display preferences )
   - [ ] Search Function ?
   - [ ] Encryption ?
   - [ ] Collaboration ?
-  - [ ] Archive completed tasks
 
 - **😎 Clean UI**
 
   - [x] Modern and intuitive design
+    - [ ] Highlight selected task for easy demarcation
   - [x] Easy to navigate and use
   - **📱 Mobile**
-    - [ ] Test / Update all components to be mobile friendly
+    - [x] Test / Update all components to be mobile friendly
 
 - **💻 Hosting**
   - [x] Local/Offline Host
