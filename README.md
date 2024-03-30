@@ -1,4 +1,4 @@
-[![longOverdue home page](src/assets/helloworld.png)](https://github.com/GangstersPairOfDice/longOverdue)
+[![longOverdue home page](src/assets/hello_world.png)](https://github.com/GangstersPairOfDice/longOverdue)
 
 # longOverdue
 
