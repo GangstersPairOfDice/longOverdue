@@ -44,7 +44,7 @@ export default function CompletedTasks({
   };
 
   return (
-    <div className="w-full h-full p-4">
+    <div className="w-full h-full">
       <h2 className="text-2xl font-bold mb-4">Completed Tasks</h2>
       <ul className="flex flex-col gap-2">
         {completedTasks.map((task) => (
