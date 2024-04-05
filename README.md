@@ -51,8 +51,9 @@ To deploy this application on your own machine, follow these steps:
     - [x] See how long it's been since a task was added
 
   - [x] 💾 Save your Todos ( LocalStorage )
-  - [ ] Archive completed tasks
-  - [ ] See what the average time it takes to complete a task
+  - [x] Complete tasks
+    - [x] See completed tasks
+    - [x] See what the average time it takes to complete a task
   - [ ] Undo remove button
   - [ ] Notifications ?
   - [ ] Display Customization ? ( display preferences )
