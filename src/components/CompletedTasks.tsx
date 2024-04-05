@@ -45,7 +45,7 @@ export default function CompletedTasks({
 
   return (
     <div className="w-full h-full">
-      <h2 className="text-2xl font-bold mb-4">Completed Tasks</h2>
+      <h2 className="text-2xl font-bold m-4 underline">Completed Tasks</h2>
       <ul className="flex flex-col gap-2">
         {completedTasks.map((task) => (
           <TodoItem
