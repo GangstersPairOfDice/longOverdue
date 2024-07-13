@@ -24,19 +24,27 @@ To deploy this application on your own machine, follow these steps:
 
 1. Clone the repository:
 
-```git clone https://github.com/GangstersPairOfDice/longOverdue.git```
+```
+git clone https://github.com/GangstersPairOfDice/longOverdue.git
+```
 
 2. Go inside the directory:
 
-```cd longOverdue```
+```
+cd longOverdue
+```
 
 3. Install dependancies:
 
-```yarn```
+```
+yarn
+```
 
 4. Start the development server:
 
-```yarn dev```
+```
+yarn dev
+```
 
 5. Open your browser and navigate to http://localhost:5173 to view the application.
 
