@@ -8,7 +8,7 @@ How long has it been though?
 
 With longOverdue, you can keep track of how long its been since you wrote down that one amazing idea.
 
-Excited to announce we are now live and online!
+Try it here:
 
 https://longoverdue.vercel.app/
 
